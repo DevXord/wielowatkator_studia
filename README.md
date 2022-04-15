@@ -1,11 +1,12 @@
 ﻿# Wielowątkowość
  
 
-	Wielowątkowość pozwala zwiększyć czas odpowiedzi aplikacji, a jeśli aplikacja działa w systemie wieloprocesorowym lub wielordzeniowym, zwiększyć jej przepływność. 
+	Wielowątkowość pozwala zwiększyć czas odpowiedzi aplikacji, a jeśli aplikacja 
+	działa w systemie wieloprocesorowym lub wielordzeniowym, zwiększyć jej przepływność. 
 
-	Proces i wątek: 
-		Proces jest programem wykonującym. System operacyjny używa procesów do oddzielania wykonywanych aplikacji. 
-		Wątek jest jednostką podstawową, do której system operacyjny przydziela czas procesora.
+##	Proces i wątek: 
+	Proces jest programem wykonującym. System operacyjny używa procesów do oddzielania wykonywanych aplikacji. 
+	Wątek jest jednostką podstawową, do której system operacyjny przydziela czas procesora.
 
 
 # Klasa Task
