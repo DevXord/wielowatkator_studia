@@ -5,13 +5,16 @@
 	działa w systemie wieloprocesorowym lub wielordzeniowym, zwiększyć jej przepływność. 
 
 ##	Proces i wątek: 
-	Proces jest programem wykonującym. System operacyjny używa procesów do oddzielania wykonywanych aplikacji. 
-	Wątek jest jednostką podstawową, do której system operacyjny przydziela czas procesora.
+	Proces jest programem wykonującym. System operacyjny używa procesów do oddzielania wykonywanych 
+	aplikacji. Wątek jest jednostką podstawową, do której system operacyjny przydziela czas procesora.
 
 
 # Klasa Task
 	
-	Klasa Task reprezentuje pojedynczą operację, która nie zwraca wartości i zwykle jest wykonywana asynchronicznie. Obiekty Klasy Task  są jednym z centralnych składników wzorca asynchronicznego opartego na zadaniach, po raz pierwszy wprowadzonym w .NET Framework 4. Ponieważ praca wykonywana przez obiekt zwykle jest wykonywana asynchronicznie w wątku puli wątków, a nie synchronicznie w głównym wątku aplikacji.
+	Klasa Task reprezentuje pojedynczą operację, która nie zwraca wartości i zwykle jest wykonywana 
+	asynchronicznie. Obiekty Klasy Task  są jednym z centralnych składników wzorca asynchronicznego opartego na zadaniach, 
+	po raz pierwszy wprowadzonym w .NET Framework 4. Ponieważ praca wykonywana przez obiekt zwykle jest wykonywana 
+	asynchronicznie w wątku puli wątków, a nie synchronicznie w głównym wątku aplikacji.
 
 
 
